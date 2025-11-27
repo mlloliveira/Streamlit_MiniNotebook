@@ -1,3 +1,15 @@
+# Mini Notebook
+
+A simplified mini version of Streamlit Notebook that runs only with `run_mini_notebook.py` and `notebook_imports.py`.
+
+To run it, simply do:
+
+```bash
+streamlit run run_mini_notebook.py
+```
+
+---
+
 # Streamlit Notebook
 
 The reactive notebook powered by Streamlit.
